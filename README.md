@@ -62,3 +62,5 @@ OBJETIVOS UNIVERSITARIOS
 - [Daniela Alexandra Torres Solsol](https://danielatorres14.github.io/)
 - [BIANCA GONZALES REQUEJO DAYANNE](https://biancagonzalesrequejo.github.io/BiancaGonzalesRequejoDayanne/)
 - [Sebastian Morales Cardoso](http://sebastianmoralescardoso.me/)
+- [Arnold Pajuelo Araujo](https://arnoldpajueloaraujo.me/)
+- [Anderson José Campos Cantorin](https://anderson22campos.github.io/Blog-Personal/)
