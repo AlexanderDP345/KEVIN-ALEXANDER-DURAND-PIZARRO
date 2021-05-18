@@ -18,27 +18,18 @@
                                                              
 ![Premiere_Pro_June_2020_14 3](https://user-images.githubusercontent.com/84357529/118580018-b95dcc00-b754-11eb-9715-d9c9371764c2.png)
 - Me gusta editar videos.
-
-#
- # Puedes encontrarme en:
+# Puedes encontrarme en:
   - [Instagram](https://www.instagram.com/alex_durand_pizarro/)
  
- # Mi canal de Youtube:
+# Mi canal de Youtube:
  - [Youtube](https://www.youtube.com/channel/UCRw8esxW2kxK3r1VRl3fE6Q)
  
  
- # Mi banda favorita es AJR
+# Mi banda favorita es AJR
 
 
 
 ![AJR_indie_770_436_70_s](https://user-images.githubusercontent.com/84357529/118575207-87943780-b74b-11eb-9e1e-6b97f65bb32e.jpg)
-
-
-
-
-
-
-#
 
 # Mis compañeros: 
 
@@ -46,7 +37,7 @@
 
  [Foto del 2019]
  
- # OBJETIVOS UNIVERSITARIOS 
+# OBJETIVOS UNIVERSITARIOS 
 
 -   Lograr cambiar mis pensamientos erroneos con respecto a la computación.
 -   Lograr tener una mente computacional.
