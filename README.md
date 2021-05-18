@@ -45,7 +45,7 @@
  
 OBJETIVOS UNIVERSITARIOS 
 
--   Lograr cambiar mis pensamientos erroneos con respecto a la computación.
+-   Lograr cambiar mis pensamientos erroneos de la computación.
 -   Lograr tener una mente computacional.
 -   Lograr acabar mi carrera y obtener mi título.
 
