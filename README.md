@@ -43,7 +43,7 @@
 
  [Foto del 2019]
  
-OBJETIVOS UNIVERSITARIOS 
+# OBJETIVOS UNIVERSITARIOS 
 
 -   Lograr cambiar mis pensamientos erroneos de la computación.
 -   Lograr tener una mente computacional.
