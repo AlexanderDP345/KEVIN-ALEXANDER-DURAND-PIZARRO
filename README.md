@@ -4,7 +4,7 @@
  Nací el 20 de Enero de 2004, tengo 17 años, mi madre se llama Mariana Pizarro y mi padre se llama Raul Durand, tengo una hermana;
  Vivo en [Perú](https://www.google.com/search?q=peru&sxsrf=ALeKk01zhPhj3kJXCB_JTW19TAyRDQxPVQ:1621300594451&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi5i4awh9LwAhWoILkGHc5mDKIQ_AUoAnoECAEQBA&biw=1536&bih=760) [Lima](https://www.google.com/search?q=Lima&sxsrf=ALeKk02o0qCb04gAnXa3efCwIgLDOoQusQ:1621301067587&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjb_tORidLwAhWxH7kGHcZYDsQQ_AUoAnoECAEQBA&biw=1536&bih=760) estudio en la Universidad San Ignacio de Loyola, y la carrera que estoy estudiando es Ingenieria de Sistemas de Información.
  
- # HOBBIES
+ HOBBIES
  
  
 
@@ -18,14 +18,14 @@
                                                              
 ![Premiere_Pro_June_2020_14 3](https://user-images.githubusercontent.com/84357529/118580018-b95dcc00-b754-11eb-9715-d9c9371764c2.png)
 - Me gusta editar videos.
-# Puedes encontrarme en:
+Puedes encontrarme en:
   - [Instagram](https://www.instagram.com/alex_durand_pizarro/)
  
-# Mi canal de Youtube:
+Mi canal de Youtube:
  - [Youtube](https://www.youtube.com/channel/UCRw8esxW2kxK3r1VRl3fE6Q)
  
  
-# Mi banda favorita es AJR
+Mi banda favorita es AJR
 
 
 
@@ -37,7 +37,7 @@
 
  [Foto del 2019]
  
-# OBJETIVOS UNIVERSITARIOS 
+OBJETIVOS UNIVERSITARIOS 
 
 -   Lograr cambiar mis pensamientos erroneos con respecto a la computación.
 -   Lograr tener una mente computacional.
