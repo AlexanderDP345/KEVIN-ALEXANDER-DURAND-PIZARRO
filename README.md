@@ -18,8 +18,9 @@
                                                              
 ![Premiere_Pro_June_2020_14 3](https://user-images.githubusercontent.com/84357529/118580018-b95dcc00-b754-11eb-9715-d9c9371764c2.png)
 - Me gusta editar videos.
+
 Puedes encontrarme en:
-  - [Instagram](https://www.instagram.com/alex_durand_pizarro/)
+ - [Instagram](https://www.instagram.com/alex_durand_pizarro/)
  
 Mi canal de Youtube:
  - [Youtube](https://www.youtube.com/channel/UCRw8esxW2kxK3r1VRl3fE6Q)
