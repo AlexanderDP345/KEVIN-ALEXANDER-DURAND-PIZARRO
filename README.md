@@ -1,7 +1,7 @@
 ### HOLA  👋  Soy Kevin Alexander Durand Pizarro.
 
 # BIOGRAFIA
- Nací el 20 de Enero de 2004, tengo 17 años, mi madre se llama Mariana Pizarro y mi padre se llama Raul Durand, tengo una hermana;
+ Nací el 20 de Enero de 2004, tengo 17 años, mi madre se llama M y mi padre se llama R, tengo una h;
  Vivo en [Perú](https://www.google.com/search?q=peru&sxsrf=ALeKk01zhPhj3kJXCB_JTW19TAyRDQxPVQ:1621300594451&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi5i4awh9LwAhWoILkGHc5mDKIQ_AUoAnoECAEQBA&biw=1536&bih=760) [Lima](https://www.google.com/search?q=Lima&sxsrf=ALeKk02o0qCb04gAnXa3efCwIgLDOoQusQ:1621301067587&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjb_tORidLwAhWxH7kGHcZYDsQQ_AUoAnoECAEQBA&biw=1536&bih=760) estudio en la Universidad San Ignacio de Loyola, y la carrera que estoy estudiando es Ingenieria de Sistemas de Información.
  
  
